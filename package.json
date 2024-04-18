@@ -1,7 +1,6 @@
 {
-  "name": "optimizedhtml",
-  "version": "5.1",
-  "description": "OptimizedHTML 5 - Lightweight Gulp Starter",
+  "name": "animation",
+  "description": "3D Tilt animation",
   "homepage": "https://github.com/Mamont777/3D-Tilt-animation",
   "main": "index.js",
   "author": "WebDesign Development",
