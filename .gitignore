@@ -4,4 +4,4 @@
 /**/*.DS_Store
 /**/package-lock.json
 /**/debug.log
-dist/
+/**/dist/
