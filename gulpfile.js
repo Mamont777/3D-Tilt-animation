@@ -30,8 +30,8 @@ import { deleteAsync } from "del";
 function browsersync() {
   browserSync.init({
     server: {
-      baseDir: "app/",
-      middleware: bssi({ baseDir: "app/", ext: ".html" }),
+      baseDir: "./",
+      middleware: bssi({ baseDir: "./", ext: ".html" }),
     },
     ghostMode: { clicks: false },
     notify: false,
